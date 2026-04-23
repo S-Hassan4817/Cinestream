@@ -1,5 +1,3 @@
-readme_code = """# CineStream | Movie Ticket Booking System
-
 A modern movie ticket management platform developed for the DISM eProject. This full-stack application features a dedicated admin dashboard for theater management and a responsive user interface for movie browsing and ticket booking.
 
 ## 🚀 Key Features

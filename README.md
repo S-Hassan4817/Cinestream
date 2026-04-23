@@ -14,7 +14,7 @@ A modern movie ticket management platform developed for the DISM eProject. This 
 * **Database:** MySQL
 * **Frontend:** HTML5, CSS3, JavaScript, Bootstrap 5
 * **UI Components:** Custom AdminLTE integration for the dashboard
-* **Typography:** Inter & Bebas Neue (Netflix-style fonts)
+* **Typography:** Inter & Bebas Neue
 
 ## 📂 Project Structure
 
